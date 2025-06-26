@@ -35,19 +35,3 @@ A Node.js + Express backend with MongoDB, JWT authentication, file uploads, and 
 
    * Dev: `npm run dev`
    * Prod: `npm start`
-
-##  Structure
-
-```
-index.js         # Entry point
-/routes          # API routes
-/models          # Mongoose schemas
-/controllers     # Logic handlers
-/middleware      # Auth, etc.
-```
-
-
-
----
-
-Let me know if you want a version with badges, deployment instructions (e.g. for Render or Heroku), or example `.env` values.
